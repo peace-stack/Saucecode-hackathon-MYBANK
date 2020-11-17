@@ -68,4 +68,7 @@ img{
   width: 100%;
   object-fit: cover;
 }
+input:hover{
+  color: red;
+}
 </style>

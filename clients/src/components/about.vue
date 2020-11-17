@@ -10,7 +10,7 @@
       <div class="col-sm-6">
         <div class="text">
           <q>
-            For direct use via in the browser, exposes the Vue global.
+            For direct use via he browser, exposes the Vue global.
             In-browser template compilation: vue.global.js is the "full" build
             that includes both the compiler and the runtime so it supports
             compiling templates on the fly. vue.runtime.global.js contains only
